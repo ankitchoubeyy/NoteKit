@@ -1,0 +1,13 @@
+.footer{
+    align-items: center;
+    background-color: rgb(19, 19, 20);
+    text-align: center;
+    /* position: fixed; */
+    /* justify-content: center; */
+    margin: 0%;
+    padding: 0%;
+    height: 10vh;
+    width: 100vw;
+    font-style: italic;
+    text-decoration: blanchedalmond;
+}
